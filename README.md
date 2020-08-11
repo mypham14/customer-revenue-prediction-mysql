@@ -34,6 +34,7 @@ The objective of this project is to analyze a Google Merchandise Store's (GStore
 ## Methodologies
 * Create assumptions about data entities and relationships
 * Create an Entity-Relationship Diagram (ERD) as theird-normal form (3NF) for the data
+* Perform data cleaning and ETL using MS Excel and SQL
 * Create a physical database based on the ERD created
 * Perform data analysis
   - Which user had the maximum number of visits and when?
